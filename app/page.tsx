@@ -29,7 +29,7 @@ export default function Page() {
             , brought to you by Vercel.
           </p>
 
-          <h1 className="text-blue-500">I'm blue!</h1>
+          <h1 className="text-blue-500">I'm at Master and from Chapter 2</h1>
 
           <Link
             href="/login"
