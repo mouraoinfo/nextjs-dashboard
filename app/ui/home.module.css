@@ -1,0 +1,19 @@
+.shape {
+    height: 10;
+    width: 10;
+    border-bottom: 50px solid rgb(255, 115, 0);
+    border-left: 50px solid royalblue;
+    border-right: 50px solid magenta;
+  }
+
+
+
+  .pinkt {
+    height: 10;
+    width: 15;
+    border-top: 50px solid mediumvioletred;
+    border-bottom: 50px solid  orangered;
+    border-left: 50px solid rgb(255, 0, 221);
+    border-right: 50px solid rgb(128, 0, 100);
+    border-radius: 50%;
+  }
