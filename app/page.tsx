@@ -29,7 +29,11 @@ export default function Page() {
             , brought to you by Vercel.
           </p>
 
+<<<<<<< HEAD
           <h1 className="text-blue-500">I'm at Chapter 2</h1>
+=======
+          <h1 className="text-blue-500">I'm at Master and from Chapter 2</h1>
+>>>>>>> 30a814c (Update page title to reflect current chapter)
 
           <Link
             href="/login"
